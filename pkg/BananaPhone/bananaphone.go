@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/awgh/rawreader"
-	"github.com/binject/debug/pe"
+	"github.com/Binject/debug/pe"
 )
 
 //PhoneMode determines the way a bananaphone will resolve sysids
