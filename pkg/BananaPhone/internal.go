@@ -6,7 +6,7 @@ import (
 	"errors"
 
 	"github.com/awgh/rawreader"
-	"github.com/binject/debug/pe"
+	"github.com/Binject/debug/pe"
 	"golang.org/x/sys/windows"
 )
 
